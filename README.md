@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="b1.jpg"/>
 </p>
 <p>
 On your browser, go to http://localhost/osticket/
@@ -35,7 +35,7 @@ On your browser, go to http://localhost/osticket/
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="b-1.jpg"/>
 </p>
 <p>
 Logout from osTicket and log back in as an Agent
@@ -44,7 +44,7 @@ Logout from osTicket and log back in as an Agent
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="b-3.jpg"/>
 </p>
 <p>
 Open one of the tickets
@@ -55,7 +55,7 @@ Open one of the tickets
 - Post a Reply
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="b-4.jpg"/>
 </p>
 <p>
 When the ticket has been resolved
@@ -64,7 +64,7 @@ When the ticket has been resolved
 - Change the ticket Status from "Open" to "Resolved"
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="b6.jpg"/>
 </p>
 <p>
 Back on Open osTickets
@@ -72,21 +72,19 @@ Back on Open osTickets
 - Click on another open ticket
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="b7.jpg"/>
 </p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 Like the last ticket, make sure the settings are set properly
 
 - Assign to a different agent this time
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="b8.jpg"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="b9.jpg"/>
 </p>
 <p>
 For the last ticket
@@ -96,7 +94,7 @@ For the last ticket
 - Close the ticket letting them know it has been resolved
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="b10.jpg"/>
 </p>
 <p>
 When all the tickets are done, this is how the open ticket page should be.
